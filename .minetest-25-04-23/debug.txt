@@ -1,0 +1,1131 @@
+
+
+-------------
+  Separator
+-------------
+
+
+
+-------------
+  Separator
+-------------
+
+2023-04-22 13:10:29: ACTION[Main]: World at [/home/vega/.var/app/net.minetest.Minetest/.minetest/worlds/Chimbos World]
+2023-04-22 13:10:29: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2023-04-22 13:10:30: ACTION[Server]: mxhectorvega [127.0.0.1] joins game. List of players: mxhectorvega
+2023-04-22 13:10:35: ACTION[Server]: mxhectorvega digs default:pine_tree at (-5,17,3)
+2023-04-22 13:10:37: ACTION[Server]: mxhectorvega digs default:pine_needles at (-2,18,2)
+2023-04-22 13:10:37: ACTION[Server]: mxhectorvega digs default:pine_needles at (-3,18,2)
+2023-04-22 13:10:37: ACTION[Server]: mxhectorvega digs default:pine_needles at (-3,18,3)
+2023-04-22 13:10:39: ACTION[Server]: mxhectorvega digs default:dirt_with_coniferous_litter at (0,14,0)
+2023-04-22 13:10:39: ACTION[Server]: mxhectorvega digs default:dirt at (0,13,0)
+2023-04-22 13:10:40: ACTION[Server]: mxhectorvega digs default:dirt at (0,12,0)
+2023-04-22 13:10:44: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,12,0)
+2023-04-22 13:10:44: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,13,0)
+2023-04-22 13:10:44: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,14,0)
+2023-04-22 13:10:45: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,15,0)
+2023-04-22 13:10:45: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,16,0)
+2023-04-22 13:10:46: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,17,0)
+2023-04-22 13:10:46: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,18,0)
+2023-04-22 13:11:08: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,18,0)
+2023-04-22 13:11:08: ACTION[Server]: mxhectorvega digs default:pine_needles at (0,19,0)
+2023-04-22 13:11:12: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,18,0)
+2023-04-22 13:11:12: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,19,0)
+2023-04-22 13:11:13: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,20,0)
+2023-04-22 13:11:13: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,21,0)
+2023-04-22 13:11:14: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,21,0)
+2023-04-22 13:11:14: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,20,0)
+2023-04-22 13:11:14: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,19,0)
+2023-04-22 13:11:15: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,19,0)
+2023-04-22 13:11:15: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,20,0)
+2023-04-22 13:11:16: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,21,0)
+2023-04-22 13:11:17: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,21,0)
+2023-04-22 13:11:22: ACTION[Server]: mxhectorvega digs default:pine_needles at (0,22,0)
+2023-04-22 13:11:23: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,21,0)
+2023-04-22 13:11:23: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,22,0)
+2023-04-22 13:11:24: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,23,0)
+2023-04-22 13:11:24: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,24,0)
+2023-04-22 13:11:25: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,25,0)
+2023-04-22 13:11:25: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,26,0)
+2023-04-22 13:11:25: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,27,0)
+2023-04-22 13:11:25: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,28,0)
+2023-04-22 13:11:26: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,29,0)
+2023-04-22 13:11:26: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,30,0)
+2023-04-22 13:11:26: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,31,0)
+2023-04-22 13:11:26: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,32,0)
+2023-04-22 13:11:27: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,33,0)
+2023-04-22 13:11:27: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,34,0)
+2023-04-22 13:11:28: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,35,0)
+2023-04-22 13:11:28: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,36,0)
+2023-04-22 13:11:28: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,37,0)
+2023-04-22 13:11:28: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,38,0)
+2023-04-22 13:11:28: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,39,0)
+2023-04-22 13:11:29: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,40,0)
+2023-04-22 13:11:46: ACTION[Server]: mxhectorvega leaves game. List of players: 
+2023-04-22 13:11:46: ACTION[Main]: Server: Shutting down
+2023-04-22 13:12:02: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/creatura
+2023-04-22 13:12:03: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/animalia
+2023-04-22 13:12:05: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/i3
+2023-04-22 13:12:09: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/draconis
+2023-04-22 13:12:10: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/3d_armor
+2023-04-22 13:12:15: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/mesecons
+2023-04-22 13:12:18: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/ethereal
+2023-04-22 13:12:20: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/mobs
+2023-04-22 13:12:24: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/handle_schematics
+2023-04-22 13:12:28: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/nether
+2023-04-22 13:12:34: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/mobs_animal
+2023-04-22 13:12:46: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/farming
+2023-04-22 13:12:51: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/skinsdb
+2023-04-22 13:13:05: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/airutils
+2023-04-22 13:13:05: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/hidroplane
+2023-04-22 13:13:07: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/advtrains
+2023-04-22 13:13:14: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/moreblocks
+2023-04-22 13:13:21: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/mobs_monster
+2023-04-22 13:13:35: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/mobkit
+2023-04-22 13:13:35: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/biofuel
+2023-04-22 13:13:36: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/motorboat
+2023-04-22 13:13:40: ACTION[Main]: Installed package to /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/x_bows
+2023-04-22 13:13:45: WARNING[Main]: Mod name conflict detected: "farming"
+2023-04-22 13:13:45: WARNING[Main]: Will not load: /app/share/minetest/games/minetest_game/mods/farming
+2023-04-22 13:13:45: WARNING[Main]: Overridden by: /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/farming
+2023-04-22 13:13:47: WARNING[Main]: Mod name conflict detected: "farming"
+2023-04-22 13:13:47: WARNING[Main]: Will not load: /app/share/minetest/games/minetest_game/mods/farming
+2023-04-22 13:13:47: WARNING[Main]: Overridden by: /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/farming
+2023-04-22 13:14:09: WARNING[Main]: Mod name conflict detected: "farming"
+2023-04-22 13:14:09: WARNING[Main]: Will not load: /app/share/minetest/games/minetest_game/mods/farming
+2023-04-22 13:14:09: WARNING[Main]: Overridden by: /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/farming
+2023-04-22 13:14:15: WARNING[Main]: Mod name conflict detected: "farming"
+2023-04-22 13:14:15: WARNING[Main]: Will not load: /app/share/minetest/games/minetest_game/mods/farming
+2023-04-22 13:14:15: WARNING[Main]: Overridden by: /home/vega/.var/app/net.minetest.Minetest/.minetest/mods/farming
+2023-04-22 13:14:15: WARNING[Main]: 3d_armor_ui: Mod loaded but unused.
+2023-04-22 13:14:15: WARNING[Main]: 3d_armor_ip: Mod loaded but unused.
+2023-04-22 13:14:15: WARNING[Main]: Not registering alias, item with same name is already defined: draconis:dracolily_fire -> air
+2023-04-22 13:14:15: WARNING[Main]: Not registering alias, item with same name is already defined: draconis:dracolily_ice -> air
+2023-04-22 13:14:15: WARNING[Main]: Not registering alias, item with same name is already defined: draconis:blood_fire_dragon -> 
+2023-04-22 13:14:15: WARNING[Main]: Not registering alias, item with same name is already defined: draconis:blood_ice_dragon -> 
+2023-04-22 13:14:15: WARNING[Main]: Not registering alias, item with same name is already defined: draconis:manuscript -> 
+2023-04-22 13:14:15: ACTION[Main]: [MOD] Draconis [2.0] loaded
+2023-04-22 13:14:15: ACTION[Main]: MOD: Biofuel loading...
+2023-04-22 13:14:15: ACTION[Main]: MOD: Biofuel version 0.8 loaded.
+2023-04-22 13:14:15: ACTION[Main]: [MOD] Animalia [0.6] loaded
+2023-04-22 13:14:15: ACTION[Main]: [advtrains] Loading...
+2023-04-22 13:14:15: ACTION[Main]: [advtrains] Loaded in 14.538000000002ms
+2023-04-22 13:14:16: ACTION[Main]: [MOD]moreblocks: recipe for carts:brakerail production: 18 => 27
+2023-04-22 13:14:16: ACTION[Main]: [MOD]moreblocks: recipe for carts:powerrail production: 18 => 27
+2023-04-22 13:14:16: ACTION[Main]: [MOD]moreblocks: recipe for default:sign_wall_wood production: 3 => 4
+2023-04-22 13:14:16: ACTION[Main]: [MOD]moreblocks: recipe for default:sign_wall_steel production: 3 => 4
+2023-04-22 13:14:16: ACTION[Main]: [MOD]moreblocks: recipe for default:paper production: 3 => 12
+2023-04-22 13:14:16: ACTION[Main]: [MOD]moreblocks: recipe for default:paper production: 1 => 4
+2023-04-22 13:14:16: ACTION[Main]: [MOD]moreblocks: recipe for carts:rail production: 18 => 27
+2023-04-22 13:14:16: WARNING[Main]: register_ore: ore type requires 'noise_params' but it is not specified, falling back to defaults (at /app/share/minetest/builtin/game/register.lua:521)
+2023-04-22 13:14:23: ACTION[Main]: World at [/home/vega/.var/app/net.minetest.Minetest/.minetest/worlds/Chimbos World]
+2023-04-22 13:14:23: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2023-04-22 13:14:23: ACTION[Server]: [advtrains] loading /home/vega/.var/app/net.minetest.Minetest/.minetest/worlds/Chimbos World/advtrains_version
+2023-04-22 13:14:23: WARNING[Server]:  Failed to read advtrains save data from file /home/vega/.var/app/net.minetest.Minetest/.minetest/worlds/Chimbos World/advtrains_version: /home/vega/.var/app/net.minetest.Minetest/.minetest/worlds/Chimbos World/advtrains_version: No existe el fichero o el directorio
+2023-04-22 13:14:23: WARNING[Server]:  (this is normal when first enabling advtrains on this world)
+2023-04-22 13:14:23: WARNING[Server]:  Failed to read advtrains save data from file /home/vega/.var/app/net.minetest.Minetest/.minetest/worlds/Chimbos World/advtrains: /home/vega/.var/app/net.minetest.Minetest/.minetest/worlds/Chimbos World/advtrains: No existe el fichero o el directorio
+2023-04-22 13:14:23: WARNING[Server]:  (this is normal when first enabling advtrains on this world)
+2023-04-22 13:14:23: ACTION[Server]: [advtrains][load_all]Loaded advtrains save files 
+2023-04-22 13:14:23: ACTION[Server]: [advtrains][lines][rwt] Initialized railway time:  00;00 
+2023-04-22 13:14:27: WARNING[ConnectionSend]: con(14/1) Packet quota used up for peer_id=2, was 1024 pkts
+2023-04-22 13:14:27: WARNING[ConnectionSend]: con(14/1) Packet quota used up for peer_id=2, was 1024 pkts
+2023-04-22 13:14:27: WARNING[ConnectionSend]: con(14/1) Packet quota used up for peer_id=2, was 686 pkts
+2023-04-22 13:14:27: WARNING[ConnectionSend]: con(14/1) Packet quota used up for peer_id=2, was 1024 pkts
+2023-04-22 13:14:27: WARNING[ConnectionSend]: con(14/1) Packet quota used up for peer_id=2, was 1024 pkts
+2023-04-22 13:14:27: WARNING[ConnectionSend]: con(14/1) Packet quota used up for peer_id=2, was 805 pkts
+2023-04-22 13:14:28: WARNING[ConnectionSend]: con(14/1) Packet quota used up for peer_id=2, was 1024 pkts
+2023-04-22 13:14:30: WARNING[Main]: Texture "draconis_fire_dragon_egg_mesh_green.png" of draconis:egg_fire_green has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]:   This warning can be a false-positive if unused pixels in the texture are transparent. However if it is meant to be transparent, you *MUST* update the nodedef and set use_texture_alpha = "clip"! This compatibility code will be removed in a few releases.
+2023-04-22 13:14:30: WARNING[Main]: Texture "draconis_fire_dragon_egg_mesh_gold.png" of draconis:egg_fire_gold has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "draconis_fire_dragon_egg_mesh_black.png" of draconis:egg_fire_black has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "draconis_fire_dragon_egg_mesh_bronze.png" of draconis:egg_fire_bronze has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "draconis_fire_dragon_egg_mesh_red.png" of draconis:egg_fire_red has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "draconis_ice_dragon_egg_mesh_light_blue.png" of draconis:egg_ice_light_blue has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "draconis_ice_dragon_egg_mesh_sapphire.png" of draconis:egg_ice_sapphire has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "draconis_ice_dragon_egg_mesh_silver.png" of draconis:egg_ice_silver has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "draconis_ice_dragon_egg_mesh_slate.png" of draconis:egg_ice_slate has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "draconis_ice_dragon_egg_mesh_white.png" of draconis:egg_ice_white has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "animalia_nest.png" of animalia:nest_song_bird has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "advtrains_retrosignal.png" of advtrains:retrosignal_on has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "advtrains_retrosignal.png" of advtrains:retrosignal_on_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "advtrains_retrosignal.png" of advtrains:retrosignal_on_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "advtrains_retrosignal.png" of advtrains:retrosignal_on_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "advtrains_retrosignal.png" of advtrains:retrosignal_off has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "advtrains_retrosignal.png" of advtrains:retrosignal_off_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "advtrains_retrosignal.png" of advtrains:retrosignal_off_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:30: WARNING[Main]: Texture "advtrains_retrosignal.png" of advtrains:retrosignal_off_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_st has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_st_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_st_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_st_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_swrcr has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_swrcr_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_swrcr_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_swrcr_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_swlst has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_swlst_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_swlst_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_swlst_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_cr has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_cr_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_cr_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_cr_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_swrst has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_swrst_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_swrst_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_swrst_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_swlcr has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_swlcr_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_swlcr_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_swlcr_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_sy_l has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_sy_l_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_sy_l_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_sy_l_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_sy_r has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_sy_r_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_sy_r_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_sy_r_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_s3_r has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_s3_r_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_s3_r_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_s3_r_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_s3_l has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_s3_l_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_s3_l_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_s3_l_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_s3_s has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_s3_s_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_s3_s_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_s3_s_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xing_st has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xing_st_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xing_st_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xing_st_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xing90plusx_45l has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xing90plusx_60l has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xing90plusx_60r has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xing90plusx_30r has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xing90plusx_30l has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xing90plusx_45r has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xingdiag_60l60r has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xingdiag_30r45l has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xingdiag_30l45r has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xingdiag_60r30r has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xingdiag_60l30l has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xingdiag_60r45l has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_xingdiag_60l45r has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_vst33 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_vst2 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_vst2_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_vst31 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_vst32 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_vst1 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared.png" of advtrains:dtrack_vst1_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_rail.png" of advtrains:dtrack_bumper_st has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_rail.png" of advtrains:dtrack_bumper_st_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_rail.png" of advtrains:dtrack_bumper_st_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_rail.png" of advtrains:dtrack_bumper_st_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_atc.png" of advtrains:dtrack_atc_st has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_atc.png" of advtrains:dtrack_atc_st_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_atc.png" of advtrains:dtrack_atc_st_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_atc.png" of advtrains:dtrack_atc_st_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_unload.png" of advtrains:dtrack_unload_st has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_unload.png" of advtrains:dtrack_unload_st_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_unload.png" of advtrains:dtrack_unload_st_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_unload.png" of advtrains:dtrack_unload_st_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_load.png" of advtrains:dtrack_load_st has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_load.png" of advtrains:dtrack_load_st_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_load.png" of advtrains:dtrack_load_st_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_load.png" of advtrains:dtrack_load_st_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_detector_off.png" of advtrains:dtrack_detector_off_st has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_detector_off.png" of advtrains:dtrack_detector_off_st_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_detector_off.png" of advtrains:dtrack_detector_off_st_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_detector_off.png" of advtrains:dtrack_detector_off_st_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_detector_on.png" of advtrains:dtrack_detector_on_st has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_detector_on.png" of advtrains:dtrack_detector_on_st_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_detector_on.png" of advtrains:dtrack_detector_on_st_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_detector_on.png" of advtrains:dtrack_detector_on_st_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_npr.png" of advtrains_interlocking:dtrack_npr_st has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_npr.png" of advtrains_interlocking:dtrack_npr_st_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_npr.png" of advtrains_interlocking:dtrack_npr_st_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_npr.png" of advtrains_interlocking:dtrack_npr_st_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_signals_ks_sign_hfs.png" of advtrains_signals_ks:sign_hfs_0 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_signals_ks_sign_hfs.png" of advtrains_signals_ks:sign_hfs_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_signals_ks_sign_hfs.png" of advtrains_signals_ks:sign_hfs_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_signals_ks_sign_hfs.png" of advtrains_signals_ks:sign_hfs_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_stop.png" of advtrains_line_automation:dtrack_stop_st has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_stop.png" of advtrains_line_automation:dtrack_stop_st_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_stop.png" of advtrains_line_automation:dtrack_stop_st_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_stop.png" of advtrains_line_automation:dtrack_stop_st_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_atc.png" of advtrains_luaautomation:dtrack_st has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_atc.png" of advtrains_luaautomation:dtrack_st_30 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_atc.png" of advtrains_luaautomation:dtrack_st_45 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: WARNING[Main]: Texture "advtrains_dtrack_shared_atc.png" of advtrains_luaautomation:dtrack_st_60 has transparency, assuming use_texture_alpha = "clip".
+2023-04-22 13:14:31: ACTION[Server]: mxhectorvega [127.0.0.1] joins game. List of players: mxhectorvega
+2023-04-22 13:14:31: WARNING[Server]: 3d_armor[set_player_armor]: Detached armor inventory is nil
+2023-04-22 13:14:31: WARNING[Server]: 3d_armor3d_armor: Detached armor inventory is nil
+2023-04-22 13:14:31: WARNING[Main]: GenericCAO::addToScene(): Model skinsdb_3d_armor_character_5.b3d loaded with 5 mesh buffers but only 4 texture(s) specified, this is deprecated.
+2023-04-22 13:14:39: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,40,0)
+2023-04-22 13:14:39: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,39,0)
+2023-04-22 13:14:40: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,38,0)
+2023-04-22 13:14:40: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,37,0)
+2023-04-22 13:14:40: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,36,0)
+2023-04-22 13:14:40: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,35,0)
+2023-04-22 13:14:40: ACTION[Server]: [Creatura] [ABM Spawning] Spawned 5 animalia:bat at (37,-10,-25)
+2023-04-22 13:14:40: ACTION[Server]: [Creatura] [ABM Spawning] Spawned 3 animalia:bat at (-12,2,49)
+2023-04-22 13:14:40: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,34,0)
+2023-04-22 13:14:41: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,33,0)
+2023-04-22 13:14:41: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,32,0)
+2023-04-22 13:14:41: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,31,0)
+2023-04-22 13:14:41: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,30,0)
+2023-04-22 13:14:41: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,29,0)
+2023-04-22 13:14:42: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,28,0)
+2023-04-22 13:14:42: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,27,0)
+2023-04-22 13:14:42: ACTION[Server]: mxhectorvega digs default:pine_tree at (0,26,0)
+2023-04-22 13:14:45: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,26,0)
+2023-04-22 13:14:45: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,27,0)
+2023-04-22 13:14:46: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,28,0)
+2023-04-22 13:14:46: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,29,0)
+2023-04-22 13:14:46: ACTION[Server]: mxhectorvega places node default:pine_tree at (0,30,0)
+2023-04-22 13:14:48: ACTION[Server]: mxhectorvega leaves game. List of players: 
+2023-04-22 13:14:48: ACTION[Main]: Server: Shutting down
+2023-04-22 13:14:48: ACTION[Main]: [advtrains]Saved advtrains save files, took 0 ms 
+2023-04-22 13:15:18: ACTION[Main]: World at [/home/vega/.var/app/net.minetest.Minetest/.minetest/worlds/Chimbo's]
+2023-04-22 13:15:18: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2023-04-22 13:15:18: ACTION[Server]: mxhectorvega [127.0.0.1] joins game. List of players: mxhectorvega
+2023-04-22 13:15:24: ACTION[Server]: mxhectorvega digs default:marram_grass_2 at (0,5,192)
+2023-04-22 13:15:24: ACTION[Server]: mxhectorvega digs default:sand at (0,4,192)
+2023-04-22 13:15:26: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (0,4,192)
+2023-04-22 13:15:26: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (0,4,192)
+2023-04-22 13:15:26: ACTION[Server]: mxhectorvega places node default:marram_grass_2 at (0,4,192)
+2023-04-22 13:15:26: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (0,4,192)
+2023-04-22 13:15:27: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (0,4,192)
+2023-04-22 13:15:27: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (0,4,192)
+2023-04-22 13:15:27: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (0,4,192)
+2023-04-22 13:15:27: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (0,4,192)
+2023-04-22 13:15:28: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (0,4,192)
+2023-04-22 13:15:30: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (1,5,194)
+2023-04-22 13:15:30: ACTION[Server]: mxhectorvega places node default:marram_grass_2 at (1,5,194)
+2023-04-22 13:15:33: ACTION[Server]: mxhectorvega places node default:sand at (0,4,192)
+2023-04-22 13:15:33: ACTION[Server]: mxhectorvega places node default:sand at (0,5,192)
+2023-04-22 13:15:34: ACTION[Server]: mxhectorvega places node default:sand at (0,6,192)
+2023-04-22 13:15:34: ACTION[Server]: mxhectorvega places node default:sand at (0,7,192)
+2023-04-22 13:15:34: ACTION[Server]: mxhectorvega places node default:sand at (0,8,192)
+2023-04-22 13:15:34: ACTION[Server]: mxhectorvega places node default:sand at (0,9,192)
+2023-04-22 13:15:35: ACTION[Server]: mxhectorvega places node default:sand at (0,10,192)
+2023-04-22 13:15:35: ACTION[Server]: mxhectorvega places node default:sand at (0,11,192)
+2023-04-22 13:15:35: ACTION[Server]: mxhectorvega places node default:sand at (0,12,192)
+2023-04-22 13:15:35: ACTION[Server]: mxhectorvega places node default:sand at (0,13,192)
+2023-04-22 13:15:36: ACTION[Server]: mxhectorvega places node default:sand at (0,14,192)
+2023-04-22 13:15:36: ACTION[Server]: mxhectorvega places node default:sand at (0,15,192)
+2023-04-22 13:15:36: ACTION[Server]: mxhectorvega places node default:sand at (0,16,192)
+2023-04-22 13:15:36: ACTION[Server]: mxhectorvega places node default:sand at (0,17,192)
+2023-04-22 13:15:37: ACTION[Server]: mxhectorvega places node default:sand at (0,18,192)
+2023-04-22 13:16:11: ACTION[Server]: mxhectorvega digs default:sand at (0,18,192)
+2023-04-22 13:16:11: ACTION[Server]: mxhectorvega digs default:sand at (0,17,192)
+2023-04-22 13:16:11: ACTION[Server]: mxhectorvega digs default:sand at (0,16,192)
+2023-04-22 13:16:12: ACTION[Server]: mxhectorvega digs default:sand at (0,15,192)
+2023-04-22 13:16:12: ACTION[Server]: mxhectorvega digs default:sand at (0,14,192)
+2023-04-22 13:16:12: ACTION[Server]: mxhectorvega digs default:sand at (0,13,192)
+2023-04-22 13:16:12: ACTION[Server]: mxhectorvega digs default:sand at (0,12,192)
+2023-04-22 13:16:12: ACTION[Server]: mxhectorvega digs default:sand at (0,11,192)
+2023-04-22 13:16:13: ACTION[Server]: mxhectorvega digs default:sand at (0,10,192)
+2023-04-22 13:16:13: ACTION[Server]: mxhectorvega digs default:sand at (0,9,192)
+2023-04-22 13:16:13: ACTION[Server]: mxhectorvega digs default:sand at (0,8,192)
+2023-04-22 13:16:13: ACTION[Server]: mxhectorvega digs default:sand at (0,7,192)
+2023-04-22 13:16:13: ACTION[Server]: mxhectorvega digs default:sand at (0,6,192)
+2023-04-22 13:16:16: ACTION[Server]: mxhectorvega digs default:sand at (0,5,192)
+2023-04-22 13:16:24: ACTION[Main]: Server: Shutting down
+2023-04-22 13:29:07: ACTION[Main]: World at [/home/vega/.var/app/net.minetest.Minetest/.minetest/worlds/Chimbo's]
+2023-04-22 13:29:07: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2023-04-22 13:29:08: ACTION[Server]: mxhectorvega [127.0.0.1] joins game. List of players: mxhectorvega
+2023-04-22 13:29:10: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (0,5,192)
+2023-04-22 13:29:10: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (0,5,192)
+2023-04-22 13:29:10: ACTION[Server]: mxhectorvega places node default:marram_grass_2 at (0,5,192)
+2023-04-22 13:29:10: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (0,5,192)
+2023-04-22 13:29:11: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (0,5,192)
+2023-04-22 13:29:11: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (0,5,192)
+2023-04-22 13:29:11: ACTION[Server]: mxhectorvega places node default:marram_grass_2 at (0,5,192)
+2023-04-22 13:29:11: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (0,5,192)
+2023-04-22 13:29:12: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (0,5,192)
+2023-04-22 13:29:12: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (0,5,192)
+2023-04-22 13:29:12: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (0,5,192)
+2023-04-22 13:29:12: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (0,5,192)
+2023-04-22 13:29:15: ACTION[Server]: mxhectorvega places node default:sand at (0,5,192)
+2023-04-22 13:29:15: ACTION[Server]: mxhectorvega places node default:sand at (0,6,192)
+2023-04-22 13:29:15: ACTION[Server]: mxhectorvega places node default:sand at (0,7,192)
+2023-04-22 13:29:15: ACTION[Server]: mxhectorvega places node default:sand at (0,8,192)
+2023-04-22 13:29:16: ACTION[Server]: mxhectorvega places node default:sand at (0,9,192)
+2023-04-22 13:29:16: ACTION[Server]: mxhectorvega places node default:sand at (0,10,192)
+2023-04-22 13:29:16: ACTION[Server]: mxhectorvega places node default:sand at (0,11,192)
+2023-04-22 13:29:16: ACTION[Server]: mxhectorvega places node default:sand at (0,12,192)
+2023-04-22 13:29:17: ACTION[Server]: mxhectorvega places node default:sand at (0,13,192)
+2023-04-22 13:29:17: ACTION[Server]: mxhectorvega places node default:sand at (0,14,192)
+2023-04-22 13:29:17: ACTION[Server]: mxhectorvega places node default:sand at (0,15,192)
+2023-04-22 13:29:17: ACTION[Server]: mxhectorvega places node default:sand at (0,16,192)
+2023-04-22 13:29:18: ACTION[Server]: mxhectorvega places node default:sand at (0,17,192)
+2023-04-22 13:29:18: ACTION[Server]: mxhectorvega places node default:sand at (0,18,192)
+2023-04-22 13:29:18: ACTION[Server]: mxhectorvega places node default:sand at (0,19,192)
+2023-04-22 13:29:18: ACTION[Server]: mxhectorvega places node default:sand at (0,20,192)
+2023-04-22 13:29:25: ACTION[Server]: mxhectorvega leaves game. List of players: 
+2023-04-22 13:29:25: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2023-04-25 16:22:53: [Main]: Automatically selecting world at [/home/vega/.var/app/net.minetest.Minetest/.minetest/worlds/Chimbo's]
+2023-04-25 16:22:56: ACTION[Main]: World at [/home/vega/.var/app/net.minetest.Minetest/.minetest/worlds/Chimbo's]
+2023-04-25 16:22:56: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2023-04-25 16:22:57: ACTION[Server]: mxhectorvega [127.0.0.1] joins game. List of players: mxhectorvega
+2023-04-25 16:23:07: ACTION[Server]: mxhectorvega damaged by 12 hp at (0.629,5.509,190.046)
+2023-04-25 16:23:29: ACTION[Server]: mxhectorvega places node default:sand at (32,9,181)
+2023-04-25 16:23:29: ACTION[Server]: mxhectorvega places node default:sand at (32,10,181)
+2023-04-25 16:23:29: ACTION[Server]: mxhectorvega places node default:sand at (32,11,181)
+2023-04-25 16:23:29: ACTION[Server]: mxhectorvega places node default:sand at (32,12,181)
+2023-04-25 16:23:30: ACTION[Server]: mxhectorvega places node default:sand at (32,13,181)
+2023-04-25 16:23:30: ACTION[Server]: mxhectorvega places node default:sand at (32,14,181)
+2023-04-25 16:23:30: ACTION[Server]: mxhectorvega places node default:sand at (32,15,181)
+2023-04-25 16:23:31: ACTION[Server]: mxhectorvega places node default:sand at (32,16,181)
+2023-04-25 16:23:31: ACTION[Server]: mxhectorvega places node default:sand at (32,17,181)
+2023-04-25 16:23:31: ACTION[Server]: mxhectorvega places node default:sand at (32,18,181)
+2023-04-25 16:23:32: ACTION[Server]: mxhectorvega places node default:sand at (32,19,181)
+2023-04-25 16:23:32: ACTION[Server]: mxhectorvega places node default:sand at (32,20,181)
+2023-04-25 16:23:32: ACTION[Server]: mxhectorvega places node default:sand at (32,21,181)
+2023-04-25 16:23:32: ACTION[Server]: mxhectorvega places node default:sand at (32,22,181)
+2023-04-25 16:23:33: ACTION[Server]: mxhectorvega places node default:sand at (32,23,181)
+2023-04-25 16:23:33: ACTION[Server]: mxhectorvega places node default:sand at (32,24,181)
+2023-04-25 16:23:33: ACTION[Server]: mxhectorvega places node default:sand at (32,25,181)
+2023-04-25 16:23:33: ACTION[Server]: mxhectorvega places node default:sand at (32,26,181)
+2023-04-25 16:23:34: ACTION[Server]: mxhectorvega places node default:sand at (32,27,181)
+2023-04-25 16:23:34: ACTION[Server]: mxhectorvega places node default:sand at (32,28,181)
+2023-04-25 16:23:34: ACTION[Server]: mxhectorvega places node default:sand at (32,29,181)
+2023-04-25 16:23:35: ACTION[Server]: mxhectorvega places node default:sand at (32,30,181)
+2023-04-25 16:23:35: ACTION[Server]: mxhectorvega places node default:sand at (32,31,181)
+2023-04-25 16:23:35: ACTION[Server]: mxhectorvega places node default:sand at (32,32,181)
+2023-04-25 16:23:35: ACTION[Server]: mxhectorvega places node default:sand at (32,33,181)
+2023-04-25 16:23:36: ACTION[Server]: mxhectorvega places node default:sand at (32,34,181)
+2023-04-25 16:23:36: ACTION[Server]: mxhectorvega places node default:sand at (32,35,181)
+2023-04-25 16:23:36: ACTION[Server]: mxhectorvega places node default:sand at (32,36,181)
+2023-04-25 16:23:37: ACTION[Server]: mxhectorvega places node default:sand at (32,37,181)
+2023-04-25 16:23:37: ACTION[Server]: mxhectorvega places node default:sand at (32,38,181)
+2023-04-25 16:23:37: ACTION[Server]: mxhectorvega places node default:sand at (32,39,181)
+2023-04-25 16:23:37: ACTION[Server]: mxhectorvega places node default:sand at (32,40,181)
+2023-04-25 16:23:38: ACTION[Server]: mxhectorvega places node default:sand at (32,41,181)
+2023-04-25 16:23:38: ACTION[Server]: mxhectorvega places node default:sand at (32,42,181)
+2023-04-25 16:23:38: ACTION[Server]: mxhectorvega places node default:sand at (32,43,181)
+2023-04-25 16:23:38: ACTION[Server]: mxhectorvega places node default:sand at (32,44,181)
+2023-04-25 16:23:39: ACTION[Server]: mxhectorvega places node default:sand at (32,45,181)
+2023-04-25 16:23:39: ACTION[Server]: mxhectorvega places node default:sand at (32,46,181)
+2023-04-25 16:23:39: ACTION[Server]: mxhectorvega places node default:sand at (32,47,181)
+2023-04-25 16:23:39: ACTION[Server]: mxhectorvega places node default:sand at (32,48,181)
+2023-04-25 16:23:40: ACTION[Server]: mxhectorvega places node default:sand at (32,49,181)
+2023-04-25 16:23:40: ACTION[Server]: mxhectorvega places node default:sand at (32,50,181)
+2023-04-25 16:23:40: ACTION[Server]: mxhectorvega places node default:sand at (32,51,181)
+2023-04-25 16:23:41: ACTION[Server]: mxhectorvega places node default:sand at (32,52,181)
+2023-04-25 16:23:41: ACTION[Server]: mxhectorvega places node default:sand at (32,53,181)
+2023-04-25 16:23:41: ACTION[Server]: mxhectorvega places node default:sand at (32,54,181)
+2023-04-25 16:23:41: ACTION[Server]: mxhectorvega places node default:sand at (32,55,181)
+2023-04-25 16:23:42: ACTION[Server]: mxhectorvega places node default:sand at (32,56,181)
+2023-04-25 16:23:42: ACTION[Server]: mxhectorvega places node default:sand at (32,57,181)
+2023-04-25 16:23:42: ACTION[Server]: mxhectorvega places node default:sand at (32,58,181)
+2023-04-25 16:23:43: ACTION[Server]: mxhectorvega places node default:sand at (32,59,181)
+2023-04-25 16:23:43: ACTION[Server]: mxhectorvega places node default:sand at (32,60,181)
+2023-04-25 16:23:43: ACTION[Server]: mxhectorvega places node default:sand at (32,61,181)
+2023-04-25 16:23:43: ACTION[Server]: mxhectorvega places node default:sand at (32,62,181)
+2023-04-25 16:23:44: ACTION[Server]: mxhectorvega places node default:sand at (32,63,181)
+2023-04-25 16:23:44: ACTION[Server]: mxhectorvega places node default:sand at (32,64,181)
+2023-04-25 16:23:44: ACTION[Server]: mxhectorvega places node default:sand at (32,65,181)
+2023-04-25 16:23:56: ACTION[Server]: mxhectorvega activates default:sand
+2023-04-25 16:23:56: ACTION[Server]: mxhectorvega damaged by 33 hp at (29.984,11.444,180.576)
+2023-04-25 16:23:56: ACTION[Server]: mxhectorvega dies at (30,11,181). No bones placed
+2023-04-25 16:24:00: ACTION[Server]: mxhectorvega respawns at (0,6,192)
+2023-04-25 16:26:02: ACTION[Server]: mxhectorvega damaged by 2 hp at (-12.873,1.013,143.84)
+2023-04-25 16:26:30: ACTION[Server]: mxhectorvega places node default:sand at (-58,2,76)
+2023-04-25 16:26:31: ACTION[Server]: mxhectorvega places node default:sand at (-58,3,76)
+2023-04-25 16:26:31: ACTION[Server]: mxhectorvega places node default:sand at (-58,4,76)
+2023-04-25 16:26:32: ACTION[Server]: mxhectorvega places node default:sand at (-58,5,76)
+2023-04-25 16:26:32: ACTION[Server]: mxhectorvega places node default:sand at (-58,6,76)
+2023-04-25 16:26:32: ACTION[Server]: mxhectorvega places node default:sand at (-58,7,76)
+2023-04-25 16:26:32: ACTION[Server]: mxhectorvega places node default:sand at (-58,8,76)
+2023-04-25 16:26:33: ACTION[Server]: mxhectorvega places node default:sand at (-58,9,76)
+2023-04-25 16:26:33: ACTION[Server]: mxhectorvega places node default:sand at (-58,10,76)
+2023-04-25 16:26:33: ACTION[Server]: mxhectorvega places node default:sand at (-58,11,76)
+2023-04-25 16:26:33: ACTION[Server]: mxhectorvega places node default:sand at (-58,12,76)
+2023-04-25 16:26:34: ACTION[Server]: mxhectorvega places node default:sand at (-58,13,76)
+2023-04-25 16:26:34: ACTION[Server]: mxhectorvega places node default:sand at (-58,14,76)
+2023-04-25 16:26:34: ACTION[Server]: mxhectorvega places node default:sand at (-58,15,76)
+2023-04-25 16:26:35: ACTION[Server]: mxhectorvega places node default:sand at (-58,16,76)
+2023-04-25 16:26:35: ACTION[Server]: mxhectorvega places node default:sand at (-58,17,76)
+2023-04-25 16:26:35: ACTION[Server]: mxhectorvega places node default:sand at (-58,18,76)
+2023-04-25 16:26:35: ACTION[Server]: mxhectorvega places node default:sand at (-58,19,76)
+2023-04-25 16:26:36: ACTION[Server]: mxhectorvega places node default:sand at (-58,20,76)
+2023-04-25 16:26:36: ACTION[Server]: mxhectorvega places node default:sand at (-58,21,76)
+2023-04-25 16:26:36: ACTION[Server]: mxhectorvega places node default:sand at (-58,22,76)
+2023-04-25 16:26:36: ACTION[Server]: mxhectorvega places node default:sand at (-58,23,76)
+2023-04-25 16:26:37: ACTION[Server]: mxhectorvega places node default:sand at (-58,24,76)
+2023-04-25 16:26:37: ACTION[Server]: mxhectorvega places node default:sand at (-58,25,76)
+2023-04-25 16:26:37: ACTION[Server]: mxhectorvega places node default:sand at (-58,26,76)
+2023-04-25 16:26:37: ACTION[Server]: mxhectorvega places node default:sand at (-58,27,76)
+2023-04-25 16:26:38: ACTION[Server]: mxhectorvega places node default:sand at (-58,28,76)
+2023-04-25 16:26:38: ACTION[Server]: mxhectorvega places node default:sand at (-58,29,76)
+2023-04-25 16:26:38: ACTION[Server]: mxhectorvega places node default:sand at (-58,30,76)
+2023-04-25 16:26:39: ACTION[Server]: mxhectorvega places node default:sand at (-58,31,76)
+2023-04-25 16:26:39: ACTION[Server]: mxhectorvega places node default:sand at (-58,32,76)
+2023-04-25 16:26:39: ACTION[Server]: mxhectorvega places node default:sand at (-58,33,76)
+2023-04-25 16:26:39: ACTION[Server]: mxhectorvega places node default:sand at (-58,34,76)
+2023-04-25 16:26:39: ACTION[Server]: mxhectorvega places node default:sand at (-58,35,76)
+2023-04-25 16:26:40: ACTION[Server]: mxhectorvega places node default:sand at (-58,36,76)
+2023-04-25 16:26:40: ACTION[Server]: mxhectorvega places node default:sand at (-58,37,76)
+2023-04-25 16:26:40: ACTION[Server]: mxhectorvega places node default:sand at (-58,38,76)
+2023-04-25 16:26:41: ACTION[Server]: mxhectorvega places node default:sand at (-58,39,76)
+2023-04-25 16:26:41: ACTION[Server]: mxhectorvega places node default:sand at (-58,40,76)
+2023-04-25 16:26:41: ACTION[Server]: mxhectorvega places node default:sand at (-58,41,76)
+2023-04-25 16:26:41: ACTION[Server]: mxhectorvega places node default:sand at (-58,42,76)
+2023-04-25 16:26:42: ACTION[Server]: mxhectorvega places node default:sand at (-58,43,76)
+2023-04-25 16:26:44: ACTION[Server]: mxhectorvega places node default:sand at (-58,44,76)
+2023-04-25 16:26:44: ACTION[Server]: mxhectorvega places node default:sand at (-58,45,76)
+2023-04-25 16:26:45: ACTION[Server]: mxhectorvega places node default:sand at (-58,46,76)
+2023-04-25 16:26:45: ACTION[Server]: mxhectorvega places node default:sand at (-58,47,76)
+2023-04-25 16:26:45: ACTION[Server]: mxhectorvega places node default:sand at (-58,48,76)
+2023-04-25 16:26:46: ACTION[Server]: mxhectorvega places node default:sand at (-58,49,76)
+2023-04-25 16:26:46: ACTION[Server]: mxhectorvega places node default:sand at (-58,50,76)
+2023-04-25 16:26:46: ACTION[Server]: mxhectorvega places node default:sand at (-58,51,76)
+2023-04-25 16:26:46: ACTION[Server]: mxhectorvega places node default:sand at (-58,52,76)
+2023-04-25 16:26:47: ACTION[Server]: mxhectorvega places node default:sand at (-58,53,76)
+2023-04-25 16:26:47: ACTION[Server]: mxhectorvega places node default:sand at (-58,54,76)
+2023-04-25 16:26:47: ACTION[Server]: mxhectorvega places node default:sand at (-58,55,76)
+2023-04-25 16:26:48: ACTION[Server]: mxhectorvega places node default:sand at (-58,56,76)
+2023-04-25 16:26:48: ACTION[Server]: mxhectorvega places node default:sand at (-58,57,76)
+2023-04-25 16:26:48: ACTION[Server]: mxhectorvega places node default:sand at (-58,58,76)
+2023-04-25 16:26:48: ACTION[Server]: mxhectorvega places node default:sand at (-58,59,76)
+2023-04-25 16:26:49: ACTION[Server]: mxhectorvega places node default:sand at (-58,60,76)
+2023-04-25 16:26:49: ACTION[Server]: mxhectorvega places node default:sand at (-58,61,76)
+2023-04-25 16:26:49: ACTION[Server]: mxhectorvega places node default:sand at (-58,62,76)
+2023-04-25 16:26:49: ACTION[Server]: mxhectorvega places node default:sand at (-58,63,76)
+2023-04-25 16:26:50: ACTION[Server]: mxhectorvega places node default:sand at (-58,64,76)
+2023-04-25 16:26:50: ACTION[Server]: mxhectorvega places node default:sand at (-58,65,76)
+2023-04-25 16:26:50: ACTION[Server]: mxhectorvega places node default:sand at (-58,66,76)
+2023-04-25 16:26:51: ACTION[Server]: mxhectorvega places node default:sand at (-58,67,76)
+2023-04-25 16:26:51: ACTION[Server]: mxhectorvega places node default:sand at (-58,68,76)
+2023-04-25 16:26:51: ACTION[Server]: mxhectorvega places node default:sand at (-58,69,76)
+2023-04-25 16:26:51: ACTION[Server]: mxhectorvega places node default:sand at (-58,70,76)
+2023-04-25 16:26:57: ACTION[Server]: mxhectorvega places node default:sand at (-58,71,76)
+2023-04-25 16:26:57: ACTION[Server]: mxhectorvega places node default:sand at (-58,72,76)
+2023-04-25 16:26:58: ACTION[Server]: mxhectorvega places node default:sand at (-58,73,76)
+2023-04-25 16:26:58: ACTION[Server]: mxhectorvega places node default:sand at (-58,74,76)
+2023-04-25 16:26:58: ACTION[Server]: mxhectorvega places node default:sand at (-58,75,76)
+2023-04-25 16:26:58: ACTION[Server]: mxhectorvega places node default:sand at (-58,76,76)
+2023-04-25 16:26:59: ACTION[Server]: mxhectorvega places node default:sand at (-58,77,76)
+2023-04-25 16:26:59: ACTION[Server]: mxhectorvega places node default:sand at (-58,78,76)
+2023-04-25 16:26:59: ACTION[Server]: mxhectorvega places node default:sand at (-58,79,76)
+2023-04-25 16:27:00: ACTION[Server]: mxhectorvega places node default:sand at (-58,80,76)
+2023-04-25 16:27:00: ACTION[Server]: mxhectorvega places node default:sand at (-58,81,76)
+2023-04-25 16:27:00: ACTION[Server]: mxhectorvega places node default:sand at (-58,82,76)
+2023-04-25 16:27:01: ACTION[Server]: mxhectorvega places node default:sand at (-58,83,76)
+2023-04-25 16:27:01: ACTION[Server]: mxhectorvega places node default:sand at (-58,84,76)
+2023-04-25 16:27:01: ACTION[Server]: mxhectorvega places node default:sand at (-58,85,76)
+2023-04-25 16:27:01: ACTION[Server]: mxhectorvega places node default:sand at (-58,86,76)
+2023-04-25 16:27:02: ACTION[Server]: mxhectorvega places node default:sand at (-58,87,76)
+2023-04-25 16:27:02: ACTION[Server]: mxhectorvega places node default:sand at (-58,88,76)
+2023-04-25 16:27:10: ACTION[Server]: mxhectorvega damaged by 44 hp at (-56.962,1.34,75.779)
+2023-04-25 16:27:10: ACTION[Server]: mxhectorvega dies at (-57,1,76). No bones placed
+2023-04-25 16:27:12: ACTION[Server]: mxhectorvega respawns at (0,6,192)
+2023-04-25 16:34:57: ACTION[Server]: mxhectorvega takes default:ladder_steel from creative inventory
+2023-04-25 16:35:47: ACTION[Server]: mxhectorvega takes default:mossycobble from creative inventory
+2023-04-25 16:36:08: ACTION[Server]: mxhectorvega takes default:tinblock from creative inventory
+2023-04-25 16:36:10: ACTION[Server]: mxhectorvega takes doors:door_wood from creative inventory
+2023-04-25 16:36:15: ACTION[Server]: mxhectorvega takes doors:trapdoor from creative inventory
+2023-04-25 16:36:51: ACTION[Server]: mxhectorvega digs default:sand at (45,0,228)
+2023-04-25 16:36:52: ACTION[Server]: mxhectorvega activates default:mossycobble
+2023-04-25 16:36:52: ACTION[Server]: mxhectorvega digs default:sand at (42,-1,227)
+2023-04-25 16:36:53: ACTION[Server]: mxhectorvega places node default:tinblock at (42,-1,227)
+2023-04-25 16:36:53: ACTION[Server]: mxhectorvega places node default:sand at (42,0,227)
+2023-04-25 16:37:23: ACTION[Server]: mxhectorvega takes default:torch from creative inventory
+2023-04-25 16:37:32: ACTION[Server]: mxhectorvega places node default:torch at (51,9,269)
+2023-04-25 16:37:34: ACTION[Server]: mxhectorvega places node default:torch at (52,9,267)
+2023-04-25 16:37:35: ACTION[Server]: mxhectorvega places node default:torch at (53,9,269)
+2023-04-25 16:37:36: ACTION[Server]: mxhectorvega places node default:torch at (56,9,267)
+2023-04-25 16:37:39: ACTION[Server]: mxhectorvega places node default:torch at (52,9,273)
+2023-04-25 16:37:42: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,9,265)
+2023-04-25 16:37:43: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,9,265)
+2023-04-25 16:37:44: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,9,265)
+2023-04-25 16:37:45: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,9,265)
+2023-04-25 16:37:47: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,9,265)
+2023-04-25 16:37:47: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,9,266)
+2023-04-25 16:37:50: ACTION[Server]: mxhectorvega digs default:torch at (52,9,267)
+2023-04-25 16:37:50: ACTION[Server]: mxhectorvega places node default:mossycobble at (52,9,267)
+2023-04-25 16:37:54: ACTION[Server]: mxhectorvega places node default:mossycobble at (46,9,266)
+2023-04-25 16:37:55: ACTION[Server]: mxhectorvega places node default:mossycobble at (46,9,267)
+2023-04-25 16:37:56: ACTION[Server]: mxhectorvega places node default:mossycobble at (46,9,268)
+2023-04-25 16:37:56: ACTION[Server]: mxhectorvega places node default:mossycobble at (46,9,269)
+2023-04-25 16:37:57: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,9,270)
+2023-04-25 16:38:01: ACTION[Server]: mxhectorvega digs default:mossycobble at (46,9,269)
+2023-04-25 16:38:02: ACTION[Server]: mxhectorvega digs default:mossycobble at (47,9,270)
+2023-04-25 16:38:03: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,9,269)
+2023-04-25 16:38:04: ACTION[Server]: mxhectorvega digs default:mossycobble at (48,9,269)
+2023-04-25 16:38:05: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,9,269)
+2023-04-25 16:38:05: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,9,269)
+2023-04-25 16:38:05: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,9,269)
+2023-04-25 16:38:06: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,9,269)
+2023-04-25 16:38:11: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,9,269)
+2023-04-25 16:38:11: ACTION[Server]: mxhectorvega digs default:mossycobble at (49,9,269)
+2023-04-25 16:38:13: ACTION[Server]: mxhectorvega digs default:mossycobble at (48,9,269)
+2023-04-25 16:38:28: ACTION[Server]: mxhectorvega digs default:mossycobble at (52,9,267)
+2023-04-25 16:38:35: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,9,267)
+2023-04-25 16:38:36: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,9,268)
+2023-04-25 16:38:37: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,9,269)
+2023-04-25 16:38:41: ACTION[Server]: mxhectorvega digs default:mossycobble at (49,9,265)
+2023-04-25 16:38:47: ACTION[Server]: mxhectorvega places node default:torch at (51,8,261)
+2023-04-25 16:38:48: ACTION[Server]: mxhectorvega places node default:torch at (52,8,260)
+2023-04-25 16:38:48: ACTION[Server]: mxhectorvega places node default:torch at (57,8,260)
+2023-04-25 16:38:49: ACTION[Server]: mxhectorvega places node default:torch at (52,8,261)
+2023-04-25 16:38:49: ACTION[Server]: mxhectorvega places node default:torch at (47,8,261)
+2023-04-25 16:38:50: ACTION[Server]: mxhectorvega places node default:torch at (46,8,261)
+2023-04-25 16:38:50: ACTION[Server]: mxhectorvega places node default:torch at (46,8,260)
+2023-04-25 16:38:50: ACTION[Server]: mxhectorvega places node default:torch at (47,8,259)
+2023-04-25 16:38:55: ACTION[Server]: mxhectorvega places node default:tinblock at (51,9,264)
+2023-04-25 16:38:56: ACTION[Server]: mxhectorvega places node default:tinblock at (51,8,263)
+2023-04-25 16:38:57: ACTION[Server]: mxhectorvega places node default:tinblock at (51,9,263)
+2023-04-25 16:38:58: ACTION[Server]: mxhectorvega places node default:tinblock at (51,8,262)
+2023-04-25 16:38:59: ACTION[Server]: mxhectorvega places node default:tinblock at (51,9,262)
+2023-04-25 16:39:01: ACTION[Server]: mxhectorvega places node default:tinblock at (48,9,264)
+2023-04-25 16:39:02: ACTION[Server]: mxhectorvega digs default:tinblock at (48,9,264)
+2023-04-25 16:39:03: ACTION[Server]: mxhectorvega places node default:tinblock at (47,9,264)
+2023-04-25 16:39:04: ACTION[Server]: mxhectorvega places node default:tinblock at (47,8,263)
+2023-04-25 16:39:04: ACTION[Server]: mxhectorvega places node default:tinblock at (47,9,263)
+2023-04-25 16:39:05: ACTION[Server]: mxhectorvega places node default:tinblock at (47,8,262)
+2023-04-25 16:39:06: ACTION[Server]: mxhectorvega places node default:tinblock at (47,9,262)
+2023-04-25 16:39:12: ACTION[Server]: mxhectorvega places node default:ladder_steel at (51,8,260)
+2023-04-25 16:39:14: ACTION[Server]: mxhectorvega places node default:ladder_steel at (50,8,260)
+2023-04-25 16:39:15: ACTION[Server]: mxhectorvega places node default:ladder_steel at (49,8,260)
+2023-04-25 16:39:16: ACTION[Server]: mxhectorvega places node default:ladder_steel at (48,8,260)
+2023-04-25 16:39:19: ACTION[Server]: mxhectorvega places node default:ladder_steel at (47,8,260)
+2023-04-25 16:39:22: ACTION[Server]: mxhectorvega digs default:dirt_with_grass at (50,7,261)
+2023-04-25 16:39:23: ACTION[Server]: mxhectorvega digs default:dirt_with_grass at (49,7,261)
+2023-04-25 16:39:23: ACTION[Server]: mxhectorvega digs default:dirt_with_grass at (48,7,261)
+2023-04-25 16:39:29: ACTION[Server]: mxhectorvega places node doors:trapdoor at (48,7,261)
+2023-04-25 16:39:30: ACTION[Server]: mxhectorvega digs doors:trapdoor at (48,7,261)
+2023-04-25 16:39:32: ACTION[Server]: mxhectorvega places node doors:trapdoor at (48,7,261)
+2023-04-25 16:39:35: ACTION[Server]: mxhectorvega digs doors:trapdoor_open at (48,7,261)
+2023-04-25 16:39:38: ACTION[Server]: mxhectorvega places node doors:trapdoor at (48,7,261)
+2023-04-25 16:39:40: ACTION[Server]: mxhectorvega digs doors:trapdoor at (48,7,261)
+2023-04-25 16:39:43: ACTION[Server]: mxhectorvega places node default:tinblock at (50,7,261)
+2023-04-25 16:39:44: ACTION[Server]: mxhectorvega places node default:tinblock at (49,7,261)
+2023-04-25 16:39:44: ACTION[Server]: mxhectorvega places node default:tinblock at (48,7,261)
+2023-04-25 16:39:52: ACTION[Server]: mxhectorvega places node doors:trapdoor at (48,8,261)
+2023-04-25 16:39:56: ACTION[Server]: mxhectorvega digs default:tinblock at (49,7,261)
+2023-04-25 16:39:57: ACTION[Server]: mxhectorvega digs default:tinblock at (48,7,261)
+2023-04-25 16:40:01: ACTION[Server]: mxhectorvega places node default:tinblock at (49,7,261)
+2023-04-25 16:40:04: ACTION[Server]: mxhectorvega places node doors:trapdoor at (49,8,261)
+2023-04-25 16:40:08: ACTION[Server]: mxhectorvega digs default:tinblock at (50,7,261)
+2023-04-25 16:40:08: ACTION[Server]: mxhectorvega digs default:tinblock at (49,7,261)
+2023-04-25 16:40:10: ACTION[Server]: mxhectorvega digs default:dirt_with_grass at (49,7,262)
+2023-04-25 16:40:11: ACTION[Server]: mxhectorvega digs default:dirt_with_grass at (50,7,262)
+2023-04-25 16:40:14: ACTION[Server]: mxhectorvega places node default:tinblock at (50,7,261)
+2023-04-25 16:40:18: ACTION[Server]: mxhectorvega places node doors:trapdoor at (50,8,261)
+2023-04-25 16:40:19: ACTION[Server]: mxhectorvega digs default:tinblock at (50,7,261)
+2023-04-25 16:40:25: ACTION[Server]: mxhectorvega digs default:dirt_with_grass at (48,7,262)
+2023-04-25 16:40:29: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,7,262)
+2023-04-25 16:40:29: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,7,262)
+2023-04-25 16:40:30: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,7,262)
+2023-04-25 16:41:27: ACTION[Server]: mxhectorvega takes default:coral_cyan from creative inventory
+2023-04-25 16:42:04: ACTION[Server]: mxhectorvega takes default:coral_cyan from creative inventory
+2023-04-25 16:42:15: ACTION[Server]: mxhectorvega takes default:coral_skeleton from creative inventory
+2023-04-25 16:42:25: ACTION[Server]: mxhectorvega right-clicks object 2: LuaEntitySAO "__builtin:item" at (49,8,262)
+2023-04-25 16:42:26: ACTION[Server]: player mxhectorvega (id=1, hp=17) punched LuaEntitySAO "__builtin:item" at (49,8,262) (id=2, hp=1), damage=0
+2023-04-25 16:42:44: ACTION[Server]: mxhectorvega digs default:dirt at (49,6,261)
+2023-04-25 16:42:45: ACTION[Server]: mxhectorvega digs default:dirt at (50,6,261)
+2023-04-25 16:42:46: ACTION[Server]: mxhectorvega digs default:dirt at (48,6,261)
+2023-04-25 16:42:48: ACTION[Server]: mxhectorvega places node default:tinblock at (50,6,261)
+2023-04-25 16:42:49: ACTION[Server]: mxhectorvega places node default:tinblock at (50,7,261)
+2023-04-25 16:42:50: ACTION[Server]: mxhectorvega digs default:tinblock at (50,7,261)
+2023-04-25 16:42:51: ACTION[Server]: mxhectorvega places node default:tinblock at (49,6,261)
+2023-04-25 16:42:52: ACTION[Server]: mxhectorvega places node default:tinblock at (48,6,261)
+2023-04-25 16:42:55: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,7,261)
+2023-04-25 16:42:56: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,7,261)
+2023-04-25 16:42:57: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,7,261)
+2023-04-25 16:43:03: ACTION[Server]: mxhectorvega digs default:mossycobble at (48,7,261)
+2023-04-25 16:43:03: ACTION[Server]: mxhectorvega digs default:mossycobble at (49,7,261)
+2023-04-25 16:43:04: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,7,261)
+2023-04-25 16:43:15: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,10,269)
+2023-04-25 16:43:16: ACTION[Server]: mxhectorvega places node default:mossycobble at (46,10,268)
+2023-04-25 16:43:17: ACTION[Server]: mxhectorvega places node default:mossycobble at (46,10,267)
+2023-04-25 16:43:19: ACTION[Server]: mxhectorvega places node default:mossycobble at (46,10,266)
+2023-04-25 16:43:21: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,10,265)
+2023-04-25 16:43:29: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,10,265)
+2023-04-25 16:43:30: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,10,265)
+2023-04-25 16:43:30: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,10,265)
+2023-04-25 16:43:31: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,10,266)
+2023-04-25 16:43:44: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,10,267)
+2023-04-25 16:43:45: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,10,268)
+2023-04-25 16:43:46: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,10,269)
+2023-04-25 16:43:51: ACTION[Server]: mxhectorvega digs doors:door_wood_c at (48,9,269)
+2023-04-25 16:44:11: ACTION[Server]: mxhectorvega places node default:ladder_steel at (47,10,262)
+2023-04-25 16:44:11: ACTION[Server]: mxhectorvega places node default:ladder_steel at (47,11,262)
+2023-04-25 16:44:14: ACTION[Server]: mxhectorvega digs default:ladder_steel at (47,11,262)
+2023-04-25 16:44:21: ACTION[Server]: mxhectorvega places node default:tinblock at (47,10,263)
+2023-04-25 16:44:28: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,10,264)
+2023-04-25 16:44:30: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,10,262)
+2023-04-25 16:44:31: ACTION[Server]: mxhectorvega digs default:mossycobble at (48,10,262)
+2023-04-25 16:44:32: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,11,262)
+2023-04-25 16:44:33: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,11,263)
+2023-04-25 16:44:34: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,11,263)
+2023-04-25 16:44:35: ACTION[Server]: mxhectorvega digs default:mossycobble at (48,11,263)
+2023-04-25 16:44:37: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,11,264)
+2023-04-25 16:44:39: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,10,262)
+2023-04-25 16:44:40: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,10,263)
+2023-04-25 16:44:41: ACTION[Server]: mxhectorvega activates default:mossycobble
+2023-04-25 16:44:41: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,10,264)
+2023-04-25 16:44:42: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,9,264)
+2023-04-25 16:44:43: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,10,264)
+2023-04-25 16:44:51: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,11,269)
+2023-04-25 16:44:55: ACTION[Server]: mxhectorvega places node default:mossycobble at (46,11,268)
+2023-04-25 16:44:55: ACTION[Server]: mxhectorvega places node default:mossycobble at (46,11,267)
+2023-04-25 16:44:56: ACTION[Server]: mxhectorvega places node default:mossycobble at (46,11,266)
+2023-04-25 16:45:00: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,11,265)
+2023-04-25 16:45:01: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,11,265)
+2023-04-25 16:45:06: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,11,269)
+2023-04-25 16:45:07: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,11,269)
+2023-04-25 16:45:07: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,11,269)
+2023-04-25 16:45:11: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,11,268)
+2023-04-25 16:45:11: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,11,267)
+2023-04-25 16:45:12: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,11,266)
+2023-04-25 16:45:14: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,11,265)
+2023-04-25 16:45:16: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,11,262)
+2023-04-25 16:45:17: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,11,263)
+2023-04-25 16:45:18: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,11,264)
+2023-04-25 16:45:21: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,11,264)
+2023-04-25 16:45:25: ACTION[Server]: mxhectorvega digs default:mossycobble at (49,9,264)
+2023-04-25 16:45:26: ACTION[Server]: mxhectorvega digs default:mossycobble at (49,10,264)
+2023-04-25 16:45:28: ACTION[Server]: mxhectorvega digs default:mossycobble at (49,11,264)
+2023-04-25 16:45:29: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,11,265)
+2023-04-25 16:45:30: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,11,265)
+2023-04-25 16:45:36: ACTION[Server]: mxhectorvega places node default:tinblock at (50,8,263)
+2023-04-25 16:45:36: ACTION[Server]: mxhectorvega places node default:tinblock at (50,9,263)
+2023-04-25 16:45:37: ACTION[Server]: mxhectorvega places node default:tinblock at (50,10,263)
+2023-04-25 16:45:37: ACTION[Server]: mxhectorvega places node default:tinblock at (50,11,263)
+2023-04-25 16:45:37: ACTION[Server]: mxhectorvega places node default:tinblock at (50,12,263)
+2023-04-25 16:45:43: ACTION[Server]: mxhectorvega places node default:tinblock at (51,12,268)
+2023-04-25 16:45:43: ACTION[Server]: mxhectorvega places node default:tinblock at (51,12,267)
+2023-04-25 16:45:44: ACTION[Server]: mxhectorvega places node default:tinblock at (51,12,266)
+2023-04-25 16:45:44: ACTION[Server]: mxhectorvega places node default:tinblock at (51,12,265)
+2023-04-25 16:45:47: ACTION[Server]: mxhectorvega digs default:tinblock at (51,12,265)
+2023-04-25 16:45:53: ACTION[Server]: mxhectorvega places node default:tinblock at (50,12,269)
+2023-04-25 16:45:53: ACTION[Server]: mxhectorvega places node default:tinblock at (49,12,269)
+2023-04-25 16:45:54: ACTION[Server]: mxhectorvega places node default:tinblock at (48,12,269)
+2023-04-25 16:45:54: ACTION[Server]: mxhectorvega places node default:tinblock at (47,12,269)
+2023-04-25 16:45:59: ACTION[Server]: mxhectorvega places node default:tinblock at (46,12,268)
+2023-04-25 16:45:59: ACTION[Server]: mxhectorvega places node default:tinblock at (46,12,267)
+2023-04-25 16:46:00: ACTION[Server]: mxhectorvega places node default:tinblock at (46,12,266)
+2023-04-25 16:46:06: ACTION[Server]: mxhectorvega places node default:tinblock at (51,12,262)
+2023-04-25 16:46:06: ACTION[Server]: mxhectorvega places node default:tinblock at (51,12,263)
+2023-04-25 16:46:09: ACTION[Server]: mxhectorvega places node default:tinblock at (51,12,264)
+2023-04-25 16:46:09: ACTION[Server]: mxhectorvega places node default:tinblock at (50,12,265)
+2023-04-25 16:46:10: ACTION[Server]: mxhectorvega digs default:tinblock at (50,12,265)
+2023-04-25 16:46:11: ACTION[Server]: mxhectorvega places node default:tinblock at (51,12,265)
+2023-04-25 16:46:13: ACTION[Server]: mxhectorvega places node default:tinblock at (47,12,265)
+2023-04-25 16:46:15: ACTION[Server]: mxhectorvega places node default:tinblock at (47,12,262)
+2023-04-25 16:46:15: ACTION[Server]: mxhectorvega places node default:tinblock at (47,12,263)
+2023-04-25 16:46:16: ACTION[Server]: mxhectorvega places node default:tinblock at (47,12,264)
+2023-04-25 16:46:20: ACTION[Server]: mxhectorvega digs default:tinblock at (50,12,263)
+2023-04-25 16:46:21: ACTION[Server]: mxhectorvega digs default:tinblock at (50,11,263)
+2023-04-25 16:46:22: ACTION[Server]: mxhectorvega digs default:tinblock at (50,10,263)
+2023-04-25 16:46:22: ACTION[Server]: mxhectorvega digs default:tinblock at (50,9,263)
+2023-04-25 16:46:25: ACTION[Server]: mxhectorvega digs default:tinblock at (50,8,263)
+2023-04-25 16:46:27: ACTION[Server]: mxhectorvega places node default:tinblock at (48,12,265)
+2023-04-25 16:46:28: ACTION[Server]: mxhectorvega places node default:tinblock at (49,12,265)
+2023-04-25 16:46:30: ACTION[Server]: mxhectorvega places node default:tinblock at (50,12,265)
+2023-04-25 16:46:37: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,9,264)
+2023-04-25 16:46:38: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,10,264)
+2023-04-25 16:46:38: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,11,264)
+2023-04-25 16:46:38: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,12,264)
+2023-04-25 16:46:38: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,13,264)
+2023-04-25 16:46:46: ACTION[Server]: mxhectorvega places node default:sand at (47,13,262)
+2023-04-25 16:46:47: ACTION[Server]: mxhectorvega places node default:sand at (47,13,263)
+2023-04-25 16:46:48: ACTION[Server]: mxhectorvega places node default:sand at (46,13,266)
+2023-04-25 16:46:49: ACTION[Server]: mxhectorvega places node default:sand at (46,13,268)
+2023-04-25 16:46:50: ACTION[Server]: mxhectorvega places node default:sand at (46,13,267)
+2023-04-25 16:46:52: ACTION[Server]: mxhectorvega places node default:sand at (47,13,269)
+2023-04-25 16:46:52: ACTION[Server]: mxhectorvega places node default:sand at (48,13,269)
+2023-04-25 16:46:53: ACTION[Server]: mxhectorvega places node default:sand at (49,13,269)
+2023-04-25 16:46:54: ACTION[Server]: mxhectorvega places node default:sand at (50,13,269)
+2023-04-25 16:46:55: ACTION[Server]: mxhectorvega places node default:sand at (51,13,268)
+2023-04-25 16:46:56: ACTION[Server]: mxhectorvega places node default:sand at (51,13,267)
+2023-04-25 16:46:57: ACTION[Server]: mxhectorvega places node default:sand at (51,13,266)
+2023-04-25 16:46:58: ACTION[Server]: mxhectorvega places node default:sand at (51,13,265)
+2023-04-25 16:46:58: ACTION[Server]: mxhectorvega places node default:sand at (51,13,264)
+2023-04-25 16:46:59: ACTION[Server]: mxhectorvega places node default:sand at (51,13,262)
+2023-04-25 16:47:00: ACTION[Server]: mxhectorvega places node default:sand at (51,13,263)
+2023-04-25 16:47:04: ACTION[Server]: mxhectorvega places node default:sand at (47,13,265)
+2023-04-25 16:47:05: ACTION[Server]: mxhectorvega places node default:sand at (47,13,264)
+2023-04-25 16:47:05: ACTION[Server]: mxhectorvega places node default:sand at (48,13,265)
+2023-04-25 16:47:06: ACTION[Server]: mxhectorvega places node default:sand at (49,13,265)
+2023-04-25 16:47:07: ACTION[Server]: mxhectorvega places node default:sand at (50,13,265)
+2023-04-25 16:47:20: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (51,14,265)
+2023-04-25 16:47:21: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (51,14,266)
+2023-04-25 16:47:25: ACTION[Server]: mxhectorvega places node default:marram_grass_2 at (51,14,266)
+2023-04-25 16:47:27: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (51,14,267)
+2023-04-25 16:47:28: ACTION[Server]: mxhectorvega places node default:marram_grass_2 at (51,14,268)
+2023-04-25 16:47:34: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (50,14,269)
+2023-04-25 16:47:34: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (50,14,269)
+2023-04-25 16:47:35: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (50,14,269)
+2023-04-25 16:47:35: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (50,14,269)
+2023-04-25 16:47:35: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (50,14,269)
+2023-04-25 16:47:36: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (50,14,269)
+2023-04-25 16:47:36: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (50,14,269)
+2023-04-25 16:47:37: ACTION[Server]: mxhectorvega places node default:marram_grass_2 at (50,14,269)
+2023-04-25 16:47:40: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (49,14,269)
+2023-04-25 16:47:44: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (48,14,269)
+2023-04-25 16:47:44: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (47,14,269)
+2023-04-25 16:47:46: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (47,14,269)
+2023-04-25 16:47:51: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (46,14,268)
+2023-04-25 16:47:52: ACTION[Server]: mxhectorvega places node default:marram_grass_2 at (46,14,268)
+2023-04-25 16:47:52: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (46,14,268)
+2023-04-25 16:47:53: ACTION[Server]: mxhectorvega places node default:marram_grass_2 at (46,14,268)
+2023-04-25 16:47:53: ACTION[Server]: mxhectorvega places node default:marram_grass_2 at (46,14,268)
+2023-04-25 16:47:54: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (46,14,268)
+2023-04-25 16:47:55: ACTION[Server]: mxhectorvega places node default:marram_grass_2 at (46,14,267)
+2023-04-25 16:47:56: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (46,14,266)
+2023-04-25 16:48:00: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (47,14,265)
+2023-04-25 16:48:01: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (47,14,264)
+2023-04-25 16:48:02: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (47,14,263)
+2023-04-25 16:48:03: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (47,14,263)
+2023-04-25 16:48:04: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (47,14,263)
+2023-04-25 16:48:05: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (47,14,263)
+2023-04-25 16:48:05: ACTION[Server]: mxhectorvega places node default:marram_grass_2 at (47,14,263)
+2023-04-25 16:48:06: ACTION[Server]: mxhectorvega places node default:marram_grass_2 at (47,14,263)
+2023-04-25 16:48:06: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (47,14,263)
+2023-04-25 16:48:07: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (47,14,263)
+2023-04-25 16:48:09: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (47,14,262)
+2023-04-25 16:48:10: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (48,14,265)
+2023-04-25 16:48:14: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (49,14,265)
+2023-04-25 16:48:15: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (50,14,265)
+2023-04-25 16:48:17: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (51,14,262)
+2023-04-25 16:48:18: ACTION[Server]: mxhectorvega places node default:marram_grass_1 at (51,14,263)
+2023-04-25 16:48:19: ACTION[Server]: mxhectorvega places node default:marram_grass_3 at (51,14,264)
+2023-04-25 16:48:20: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,13,264)
+2023-04-25 16:48:20: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,12,264)
+2023-04-25 16:48:21: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,11,264)
+2023-04-25 16:48:22: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,10,264)
+2023-04-25 16:48:23: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,9,264)
+2023-04-25 16:48:37: ACTION[Server]: mxhectorvega places node default:tinblock at (49,7,261)
+2023-04-25 16:48:48: ACTION[Server]: mxhectorvega places node default:tinblock at (49,8,259)
+2023-04-25 16:48:48: ACTION[Server]: mxhectorvega places node default:tinblock at (49,9,259)
+2023-04-25 16:48:48: ACTION[Server]: mxhectorvega places node default:tinblock at (49,10,259)
+2023-04-25 16:48:48: ACTION[Server]: mxhectorvega places node default:tinblock at (49,11,259)
+2023-04-25 16:48:49: ACTION[Server]: mxhectorvega places node default:tinblock at (49,12,259)
+2023-04-25 16:48:49: ACTION[Server]: mxhectorvega places node default:tinblock at (49,13,259)
+2023-04-25 16:48:49: ACTION[Server]: mxhectorvega places node default:tinblock at (49,14,259)
+2023-04-25 16:48:50: ACTION[Server]: mxhectorvega places node default:tinblock at (49,15,259)
+2023-04-25 16:48:50: ACTION[Server]: mxhectorvega places node default:tinblock at (49,16,259)
+2023-04-25 16:48:51: ACTION[Server]: mxhectorvega digs default:tinblock at (49,16,259)
+2023-04-25 16:48:51: ACTION[Server]: mxhectorvega digs default:tinblock at (49,15,259)
+2023-04-25 16:48:52: ACTION[Server]: mxhectorvega digs default:tinblock at (49,14,259)
+2023-04-25 16:48:57: ACTION[Server]: mxhectorvega places node default:tinblock at (51,13,261)
+2023-04-25 16:48:58: ACTION[Server]: mxhectorvega digs default:tinblock at (51,13,261)
+2023-04-25 16:49:01: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,13,262)
+2023-04-25 16:49:02: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,13,263)
+2023-04-25 16:49:03: ACTION[Server]: mxhectorvega digs default:mossycobble at (48,13,263)
+2023-04-25 16:49:05: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,13,262)
+2023-04-25 16:49:09: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,13,261)
+2023-04-25 16:49:10: ACTION[Server]: mxhectorvega digs default:mossycobble at (48,13,261)
+2023-04-25 16:49:12: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,13,262)
+2023-04-25 16:49:14: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,13,261)
+2023-04-25 16:49:14: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,13,260)
+2023-04-25 16:49:20: ACTION[Server]: mxhectorvega places node default:sand at (48,13,264)
+2023-04-25 16:49:25: ACTION[Server]: mxhectorvega digs default:sand at (48,9,264)
+2023-04-25 16:49:33: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,13,264)
+2023-04-25 16:49:34: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,13,264)
+2023-04-25 16:49:35: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,13,264)
+2023-04-25 16:49:36: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,13,263)
+2023-04-25 16:49:37: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,13,263)
+2023-04-25 16:49:38: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,13,263)
+2023-04-25 16:49:44: ACTION[Server]: mxhectorvega places node doors:trapdoor at (50,14,264)
+2023-04-25 16:49:45: ACTION[Server]: mxhectorvega places node doors:trapdoor at (49,14,264)
+2023-04-25 16:49:46: ACTION[Server]: mxhectorvega places node doors:trapdoor at (48,14,264)
+2023-04-25 16:49:47: ACTION[Server]: mxhectorvega digs default:mossycobble at (48,13,263)
+2023-04-25 16:49:48: ACTION[Server]: mxhectorvega digs default:mossycobble at (48,13,264)
+2023-04-25 16:49:48: ACTION[Server]: mxhectorvega digs default:mossycobble at (49,13,263)
+2023-04-25 16:49:49: ACTION[Server]: mxhectorvega digs default:mossycobble at (49,13,264)
+2023-04-25 16:49:50: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,13,263)
+2023-04-25 16:49:51: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,13,264)
+2023-04-25 16:49:55: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,13,263)
+2023-04-25 16:49:56: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,13,263)
+2023-04-25 16:49:58: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,13,263)
+2023-04-25 16:50:04: ACTION[Server]: mxhectorvega places node doors:trapdoor at (48,14,263)
+2023-04-25 16:50:05: ACTION[Server]: mxhectorvega places node doors:trapdoor at (49,14,263)
+2023-04-25 16:50:06: ACTION[Server]: mxhectorvega places node doors:trapdoor at (50,14,263)
+2023-04-25 16:50:07: ACTION[Server]: mxhectorvega digs default:mossycobble at (49,13,262)
+2023-04-25 16:50:08: ACTION[Server]: mxhectorvega digs default:mossycobble at (48,13,262)
+2023-04-25 16:50:08: ACTION[Server]: mxhectorvega digs default:mossycobble at (48,13,263)
+2023-04-25 16:50:09: ACTION[Server]: mxhectorvega digs default:mossycobble at (49,13,263)
+2023-04-25 16:50:10: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,13,262)
+2023-04-25 16:50:12: ACTION[Server]: mxhectorvega places node default:tinblock at (50,13,262)
+2023-04-25 16:50:14: ACTION[Server]: mxhectorvega places node default:tinblock at (48,13,262)
+2023-04-25 16:50:21: ACTION[Server]: mxhectorvega places node default:ladder_steel at (49,13,262)
+2023-04-25 16:50:28: ACTION[Server]: mxhectorvega digs default:ladder_steel at (49,13,262)
+2023-04-25 16:50:33: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,13,262)
+2023-04-25 16:50:34: ACTION[Server]: mxhectorvega digs default:mossycobble at (49,13,261)
+2023-04-25 16:50:35: ACTION[Server]: mxhectorvega digs default:mossycobble at (49,13,260)
+2023-04-25 16:50:36: ACTION[Server]: mxhectorvega digs default:tinblock at (49,9,259)
+2023-04-25 16:50:37: ACTION[Server]: mxhectorvega digs default:tinblock at (49,8,259)
+2023-04-25 16:50:38: ACTION[Server]: mxhectorvega digs default:tinblock at (49,10,259)
+2023-04-25 16:50:38: ACTION[Server]: mxhectorvega digs default:tinblock at (49,11,259)
+2023-04-25 16:50:38: ACTION[Server]: mxhectorvega digs default:tinblock at (49,12,259)
+2023-04-25 16:50:38: ACTION[Server]: mxhectorvega digs default:tinblock at (49,13,259)
+2023-04-25 16:50:49: ACTION[Server]: mxhectorvega digs default:torch at (51,8,261)
+2023-04-25 16:50:51: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,8,261)
+2023-04-25 16:50:51: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,9,261)
+2023-04-25 16:50:57: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,8,259)
+2023-04-25 16:50:57: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,9,259)
+2023-04-25 16:50:58: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,10,259)
+2023-04-25 16:50:58: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,11,259)
+2023-04-25 16:50:59: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,10,261)
+2023-04-25 16:50:59: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,11,261)
+2023-04-25 16:51:00: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,12,261)
+2023-04-25 16:51:01: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,13,261)
+2023-04-25 16:51:01: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,13,261)
+2023-04-25 16:51:02: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,13,261)
+2023-04-25 16:51:05: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,12,259)
+2023-04-25 16:51:05: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,13,259)
+2023-04-25 16:51:05: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,14,259)
+2023-04-25 16:51:06: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,15,259)
+2023-04-25 16:51:06: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,16,259)
+2023-04-25 16:51:06: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,17,259)
+2023-04-25 16:51:06: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,18,259)
+2023-04-25 16:51:07: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,19,259)
+2023-04-25 16:51:07: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,20,259)
+2023-04-25 16:51:07: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,21,259)
+2023-04-25 16:51:08: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,22,259)
+2023-04-25 16:51:08: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,23,259)
+2023-04-25 16:51:08: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,24,259)
+2023-04-25 16:51:08: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,25,259)
+2023-04-25 16:51:09: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,26,259)
+2023-04-25 16:51:09: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,27,259)
+2023-04-25 16:51:09: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,28,259)
+2023-04-25 16:51:09: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,29,259)
+2023-04-25 16:51:10: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,30,259)
+2023-04-25 16:51:10: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,31,259)
+2023-04-25 16:51:10: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,32,259)
+2023-04-25 16:51:11: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,33,259)
+2023-04-25 16:51:11: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,34,259)
+2023-04-25 16:51:11: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,35,259)
+2023-04-25 16:51:11: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,36,259)
+2023-04-25 16:51:12: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,37,259)
+2023-04-25 16:51:12: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,38,259)
+2023-04-25 16:51:12: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,39,259)
+2023-04-25 16:51:12: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,40,259)
+2023-04-25 16:51:13: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,41,259)
+2023-04-25 16:51:13: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,42,259)
+2023-04-25 16:51:13: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,43,259)
+2023-04-25 16:51:14: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,44,259)
+2023-04-25 16:51:14: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,45,259)
+2023-04-25 16:51:14: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,46,259)
+2023-04-25 16:51:14: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,47,259)
+2023-04-25 16:51:15: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,48,259)
+2023-04-25 16:51:15: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,49,259)
+2023-04-25 16:51:15: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,50,259)
+2023-04-25 16:51:15: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,51,259)
+2023-04-25 16:51:16: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,52,259)
+2023-04-25 16:51:16: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,53,259)
+2023-04-25 16:51:16: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,54,259)
+2023-04-25 16:51:17: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,55,259)
+2023-04-25 16:51:17: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,56,259)
+2023-04-25 16:51:17: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,57,259)
+2023-04-25 16:51:17: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,58,259)
+2023-04-25 16:51:18: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,59,259)
+2023-04-25 16:51:18: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,60,259)
+2023-04-25 16:51:18: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,61,259)
+2023-04-25 16:51:18: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,62,259)
+2023-04-25 16:51:19: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,63,259)
+2023-04-25 16:51:19: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,64,259)
+2023-04-25 16:51:19: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,65,259)
+2023-04-25 16:51:19: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,66,259)
+2023-04-25 16:51:20: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,67,259)
+2023-04-25 16:51:20: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,68,259)
+2023-04-25 16:51:20: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,69,259)
+2023-04-25 16:51:20: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,70,259)
+2023-04-25 16:51:21: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,71,259)
+2023-04-25 16:51:21: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,72,259)
+2023-04-25 16:51:21: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,73,259)
+2023-04-25 16:51:21: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,74,259)
+2023-04-25 16:51:22: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,75,259)
+2023-04-25 16:51:22: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,76,259)
+2023-04-25 16:51:22: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,77,259)
+2023-04-25 16:51:22: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,78,259)
+2023-04-25 16:51:23: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,79,259)
+2023-04-25 16:51:23: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,80,259)
+2023-04-25 16:51:23: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,81,259)
+2023-04-25 16:51:24: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,82,259)
+2023-04-25 16:51:24: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,83,259)
+2023-04-25 16:51:24: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,84,259)
+2023-04-25 16:51:25: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,85,259)
+2023-04-25 16:51:25: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,86,259)
+2023-04-25 16:51:25: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,87,259)
+2023-04-25 16:51:25: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,88,259)
+2023-04-25 16:51:26: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,89,259)
+2023-04-25 16:51:26: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,90,259)
+2023-04-25 16:51:26: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,91,259)
+2023-04-25 16:51:26: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,92,259)
+2023-04-25 16:51:27: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,93,259)
+2023-04-25 16:51:27: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,94,259)
+2023-04-25 16:51:27: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,95,259)
+2023-04-25 16:51:27: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,96,259)
+2023-04-25 16:51:28: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,97,259)
+2023-04-25 16:51:28: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,98,259)
+2023-04-25 16:51:28: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,99,259)
+2023-04-25 16:51:29: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,100,259)
+2023-04-25 16:51:29: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,101,259)
+2023-04-25 16:51:29: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,102,259)
+2023-04-25 16:51:30: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,103,259)
+2023-04-25 16:51:30: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,104,259)
+2023-04-25 16:51:30: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,105,259)
+2023-04-25 16:51:30: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,106,259)
+2023-04-25 16:51:31: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,107,259)
+2023-04-25 16:51:31: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,108,259)
+2023-04-25 16:51:31: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,109,259)
+2023-04-25 16:51:31: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,110,259)
+2023-04-25 16:51:32: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,111,259)
+2023-04-25 16:51:32: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,112,259)
+2023-04-25 16:51:32: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,113,259)
+2023-04-25 16:51:32: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,114,259)
+2023-04-25 16:51:39: ACTION[Server]: mxhectorvega damaged by 51 hp at (50.141,11.077,258.091)
+2023-04-25 16:51:39: ACTION[Server]: mxhectorvega dies at (50,11,258). No bones placed
+2023-04-25 16:51:40: ACTION[Server]: mxhectorvega respawns at (0,6,192)
+2023-04-25 16:52:04: ACTION[Server]: mxhectorvega damaged by 4 hp at (21.551,0.861,200.668)
+2023-04-25 16:52:31: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,8,259)
+2023-04-25 16:52:32: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,9,259)
+2023-04-25 16:52:32: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,10,259)
+2023-04-25 16:52:33: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,11,259)
+2023-04-25 16:52:33: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,12,259)
+2023-04-25 16:52:33: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,18,259)
+2023-04-25 16:52:34: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,19,259)
+2023-04-25 16:52:34: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,13,259)
+2023-04-25 16:52:34: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,14,259)
+2023-04-25 16:52:34: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,15,259)
+2023-04-25 16:52:35: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,16,259)
+2023-04-25 16:52:35: ACTION[Server]: mxhectorvega digs default:mossycobble at (50,17,259)
+2023-04-25 16:52:41: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,13,261)
+2023-04-25 16:52:42: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,13,261)
+2023-04-25 16:52:42: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,12,261)
+2023-04-25 16:52:43: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,11,261)
+2023-04-25 16:52:48: ACTION[Server]: mxhectorvega digs default:dirt_with_grass at (45,8,263)
+2023-04-25 16:52:49: ACTION[Server]: mxhectorvega digs default:torch at (47,8,261)
+2023-04-25 16:52:49: ACTION[Server]: mxhectorvega places node default:mossycobble at (45,8,263)
+2023-04-25 16:52:50: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,8,261)
+2023-04-25 16:52:51: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,9,261)
+2023-04-25 16:52:54: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,10,261)
+2023-04-25 16:52:56: ACTION[Server]: mxhectorvega digs default:mossycobble at (51,10,261)
+2023-04-25 16:52:58: ACTION[Server]: mxhectorvega digs default:mossycobble at (51,10,262)
+2023-04-25 16:53:04: ACTION[Server]: mxhectorvega places node default:ladder_steel at (50,9,262)
+2023-04-25 16:53:05: ACTION[Server]: mxhectorvega digs default:ladder_steel at (50,9,262)
+2023-04-25 16:53:12: ACTION[Server]: mxhectorvega places node default:ladder_steel at (50,9,262)
+2023-04-25 16:53:16: ACTION[Server]: mxhectorvega places node default:ladder_steel at (51,10,262)
+2023-04-25 16:53:26: ACTION[Server]: mxhectorvega places node default:ladder_steel at (48,9,262)
+2023-04-25 16:53:31: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,10,261)
+2023-04-25 16:54:07: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,13,268)
+2023-04-25 16:54:08: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,13,268)
+2023-04-25 16:54:08: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,13,268)
+2023-04-25 16:54:11: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,13,268)
+2023-04-25 16:54:12: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,13,267)
+2023-04-25 16:54:12: ACTION[Server]: mxhectorvega places node default:mossycobble at (47,13,266)
+2023-04-25 16:54:13: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,13,266)
+2023-04-25 16:54:15: ACTION[Server]: mxhectorvega places node default:mossycobble at (48,13,267)
+2023-04-25 16:54:16: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,13,267)
+2023-04-25 16:54:17: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,13,267)
+2023-04-25 16:54:18: ACTION[Server]: mxhectorvega places node default:mossycobble at (50,13,266)
+2023-04-25 16:54:19: ACTION[Server]: mxhectorvega activates default:mossycobble
+2023-04-25 16:54:20: ACTION[Server]: mxhectorvega places node default:mossycobble at (49,13,266)
+2023-04-25 16:54:31: ACTION[Server]: mxhectorvega leaves game. List of players: 
+2023-04-25 16:54:31: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2023-04-25 17:21:10: [Main]: Automatically selecting world at [/home/vega/.var/app/net.minetest.Minetest/.minetest/worlds/Chimbo's]
+2023-04-25 17:21:13: ACTION[Main]: World at [/home/vega/.var/app/net.minetest.Minetest/.minetest/worlds/Chimbo's]
+2023-04-25 17:21:13: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2023-04-25 17:21:13: ACTION[Server]: mxhectorvega [127.0.0.1] joins game. List of players: mxhectorvega
+2023-04-25 17:21:52: ACTION[Server]: mxhectorvega takes default:book from creative inventory
+2023-04-25 17:22:00: ACTION[Server]: mxhectorvega takes default:book from creative inventory
+2023-04-25 17:22:10: ACTION[Server]: mxhectorvega uses default:book, pointing at [node under=49,8,267 above=49,9,267]
+2023-04-25 17:22:48: ACTION[Server]: mxhectorvega uses default:book, pointing at [node under=49,8,267 above=49,9,267]
+2023-04-25 17:23:16: ACTION[Server]: mxhectorvega uses default:book_written, pointing at [node under=49,8,266 above=49,9,266]
+2023-04-25 17:23:27: ACTION[Server]: mxhectorvega uses default:book_written, pointing at [node under=49,8,271 above=49,9,271]
+2023-04-25 17:23:33: ACTION[Server]: mxhectorvega uses default:book_written, pointing at [node under=49,8,271 above=49,9,271]
+2023-04-25 17:23:45: ACTION[Server]: mxhectorvega uses default:book_written, pointing at [node under=49,8,271 above=49,9,271]
+2023-04-25 17:24:09: ACTION[Server]: mxhectorvega uses default:book_written, pointing at [nothing]
+2023-04-25 17:24:58: ACTION[Server]: mxhectorvega takes default:tin_ingot from creative inventory
+2023-04-25 17:25:07: ACTION[Server]: mxhectorvega takes default:snow from creative inventory
+2023-04-25 17:25:12: ACTION[Server]: mxhectorvega takes default:snow from creative inventory
+2023-04-25 17:25:16: ACTION[Server]: mxhectorvega takes default:snow from creative inventory
+2023-04-25 17:25:20: ACTION[Server]: mxhectorvega activates default:snow
+2023-04-25 17:25:22: ACTION[Server]: mxhectorvega digs default:dirt_with_grass at (48,7,258)
+2023-04-25 17:25:22: ACTION[Server]: mxhectorvega digs default:dirt_with_grass at (47,7,258)
+2023-04-25 17:25:23: ACTION[Server]: mxhectorvega places node default:snow at (47,7,253)
+2023-04-25 17:25:23: ACTION[Server]: mxhectorvega places node default:snow at (47,7,253)
+2023-04-25 17:25:24: ACTION[Server]: mxhectorvega places node default:snow at (47,7,253)
+2023-04-25 17:25:24: ACTION[Server]: mxhectorvega places node default:snow at (47,7,253)
+2023-04-25 17:25:24: ACTION[Server]: mxhectorvega places node default:snow at (47,7,253)
+2023-04-25 17:25:27: ACTION[Server]: mxhectorvega places node default:snow at (48,7,255)
+2023-04-25 17:25:27: ACTION[Server]: mxhectorvega places node default:snow at (50,7,255)
+2023-04-25 17:25:28: ACTION[Server]: mxhectorvega places node default:snow at (50,7,255)
+2023-04-25 17:25:28: ACTION[Server]: mxhectorvega places node default:snow at (49,7,254)
+2023-04-25 17:25:29: ACTION[Server]: mxhectorvega places node default:snow at (49,7,254)
+2023-04-25 17:25:29: ACTION[Server]: mxhectorvega activates default:snow
+2023-04-25 17:25:29: ACTION[Server]: mxhectorvega activates default:snow
+2023-04-25 17:25:30: ACTION[Server]: mxhectorvega activates default:snow
+2023-04-25 17:25:30: ACTION[Server]: mxhectorvega activates default:snow
+2023-04-25 17:25:30: ACTION[Server]: mxhectorvega activates default:snow
+2023-04-25 17:25:30: ACTION[Server]: mxhectorvega activates default:snow
+2023-04-25 17:25:30: ACTION[Server]: mxhectorvega activates default:snow
+2023-04-25 17:25:31: ACTION[Server]: mxhectorvega activates default:snow
+2023-04-25 17:25:31: ACTION[Server]: mxhectorvega activates default:snow
+2023-04-25 17:25:31: ACTION[Server]: mxhectorvega activates default:snow
+2023-04-25 17:33:34: ACTION[Server]: mxhectorvega places node default:snow at (48,7,254)
+2023-04-25 17:33:35: ACTION[Server]: mxhectorvega places node default:snow at (45,7,255)
+2023-04-25 17:33:36: ACTION[Server]: mxhectorvega places node default:snow at (45,7,254)
+2023-04-25 17:33:36: ACTION[Server]: mxhectorvega places node default:snow at (47,7,253)
+2023-04-25 17:33:36: ACTION[Server]: mxhectorvega places node default:snow at (48,7,254)
+2023-04-25 17:33:37: ACTION[Server]: mxhectorvega places node default:snow at (50,7,253)
+2023-04-25 17:33:37: ACTION[Server]: mxhectorvega places node default:snow at (50,7,254)
+2023-04-25 17:33:37: ACTION[Server]: mxhectorvega places node default:snow at (50,7,255)
+2023-04-25 17:33:37: ACTION[Server]: mxhectorvega places node default:snow at (49,7,255)
+2023-04-25 17:33:38: ACTION[Server]: mxhectorvega places node default:snow at (49,7,255)
+2023-04-25 17:33:38: ACTION[Server]: mxhectorvega places node default:snow at (49,7,255)
+2023-04-25 17:33:38: ACTION[Server]: mxhectorvega places node default:snow at (49,7,255)
+2023-04-25 17:33:38: ACTION[Server]: mxhectorvega places node default:ladder_steel at (49,7,254)
+2023-04-25 17:33:39: ACTION[Server]: mxhectorvega places node default:ladder_steel at (50,7,253)
+2023-04-25 17:33:39: ACTION[Server]: mxhectorvega places node default:ladder_steel at (50,8,253)
+2023-04-25 17:33:39: ACTION[Server]: mxhectorvega places node default:ladder_steel at (51,7,252)
+2023-04-25 17:33:39: ACTION[Server]: mxhectorvega places node default:ladder_steel at (51,8,252)
+2023-04-25 17:33:40: ACTION[Server]: mxhectorvega places node default:ladder_steel at (51,6,251)
+2023-04-25 17:33:40: ACTION[Server]: mxhectorvega places node default:ladder_steel at (50,6,251)
+2023-04-25 17:33:40: ACTION[Server]: mxhectorvega places node default:ladder_steel at (50,7,251)
+2023-04-25 17:33:40: ACTION[Server]: mxhectorvega places node default:ladder_steel at (52,6,249)
+2023-04-25 17:33:41: ACTION[Server]: mxhectorvega places node default:ladder_steel at (52,7,249)
+2023-04-25 17:33:41: ACTION[Server]: mxhectorvega places node default:ladder_steel at (52,8,249)
+2023-04-25 17:33:41: ACTION[Server]: mxhectorvega places node default:ladder_steel at (52,5,248)
+2023-04-25 17:33:41: ACTION[Server]: mxhectorvega places node default:ladder_steel at (52,5,247)
+2023-04-25 17:33:46: ACTION[Server]: mxhectorvega places node default:ladder_steel at (51,5,247)
+2023-04-25 17:33:47: ACTION[Server]: mxhectorvega places node default:ladder_steel at (51,6,247)
+2023-04-25 17:33:47: ACTION[Server]: mxhectorvega places node default:ladder_steel at (51,7,247)
+2023-04-25 17:33:57: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,5,246)
+2023-04-25 17:33:57: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,6,246)
+2023-04-25 17:33:57: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,7,246)
+2023-04-25 17:33:57: ACTION[Server]: mxhectorvega places node default:mossycobble at (51,8,246)
+2023-04-25 17:34:02: ACTION[Server]: mxhectorvega places node default:ladder_steel at (51,8,247)
+2023-04-25 17:34:02: ACTION[Server]: mxhectorvega places node default:ladder_steel at (51,9,247)
+2023-04-25 17:34:04: ACTION[Server]: mxhectorvega digs default:mossycobble at (51,8,246)
+2023-04-25 17:34:04: ACTION[Server]: mxhectorvega digs default:mossycobble at (51,7,246)
+2023-04-25 17:34:04: ACTION[Server]: mxhectorvega digs default:mossycobble at (51,6,246)
+2023-04-25 17:34:05: ACTION[Server]: mxhectorvega digs default:mossycobble at (51,5,246)
+2023-04-25 17:34:05: ACTION[Server]: mxhectorvega digs default:sand at (51,4,246)
+2023-04-25 17:34:05: ACTION[Server]: mxhectorvega digs default:sand at (51,3,246)
+2023-04-25 17:34:24: ACTION[Server]: mxhectorvega leaves game. List of players: 
+2023-04-25 17:34:24: ACTION[Main]: Server: Shutting down
