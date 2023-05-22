@@ -1,8 +1,0 @@
-# textdomain: biofuel
-progress: @1%=
-To start fuel production add biomass =
-Biofuel Refinery=
-Biofuel Refinery Active=
-Bottle of Biofuel=
-Canister of Biofuel=
-Vial of Biofuel=
